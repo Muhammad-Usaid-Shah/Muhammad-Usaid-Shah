@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Usaid Shah
 
-🎓 **Student | Python Developer (Learning) | Aspiring Electrical Engineering (Comp & AI)**
+🎓 **Student | Python Developer (Learning) | Aspiring Electrical Engineering (Computing & AI)**
 
 Welcome to my GitHub profile!  
 I am a passionate student learning **Python programming** and working toward my dream of becoming an **AI developer**. I enjoy building projects, learning new technologies, and improving my problem-solving skills step by step.
